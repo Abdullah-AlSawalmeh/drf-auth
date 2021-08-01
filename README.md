@@ -1,5 +1,10 @@
 # drf-auth
 
+Finish lab
+PR:
+https://github.com/Abdullah-AlSawalmeh/drf-auth/pull/1
+
+
 to test using Postman you need:
 
 1- using Basic AUTH by adding user and pass 
@@ -10,3 +15,4 @@ to test using Postman you need:
 ![3](assests/3.png)
 4- to use the token
 ![4](assests/4.png)
+
